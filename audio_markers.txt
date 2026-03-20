@@ -1,0 +1,87 @@
+some overall notes 190326
+
+there's your normal quite high noise floor in every clip suggested. 
+the overall structure is in fact not a single 40 minute video, but two 20-ish minute ones, so longer than anticipated, and with a short couple second gap between them. 
+
+the backing track / music / narrator are all coming from the same audio control computer
+there is a seperate recording of the output from this computer, which has overdubbed: 
+- the full ambience / sine-tone tracks
+- the full piano tracks
+- all background music generally
+- the narrator "voice" track, triggered on the laptop via midi and coming through a PA in the theatre
+
+likely the goal is to overlay these on this recording, and the extraction of the actress voice is to make her cut through that, and valorise a terrific and emotive performance
+
+mov1 (8876)
+00:00-00:33 - hold music playing loudly and audience talking
+00:40-00:50 - some background sounds, hold music held at a low volume
+01:24-01:31 - actress speaking quite clearly, same background music
+01:42-01:53 - actress speaking quite clearly, again same background music
+01:59-02:04 - actress calling out, same background music
+02:34-02:41 - actress talking clearly, same background music
+04:12-04:35 - narrator + actor overlapping, call and response with mainly narrator asking questions, actor responding, and then getting interrupted by narrator
+04:46-04:50-04:52-04:57 - actress till :50, at which point interrupted by voice. this proceeds until 04:52, with a first round of laughter. narrator continues, followed by second round of laughter 04:57 (and other audience bg noise at 04:53, a cough I think), all on same bg music
+05:00-05:02 - clear voice from character, same bg music but barely audible at all
+05:53-06:00 - clear voice, music volume increasing, character halting speaking (umm, xyz)
+06:59-07:01 / 07:09-07:11 / 07:16-07:18 - medium volume music with narrator speaking, actress making monkey sounds - monkey noise times highlighted
+07:30-07:45 - actress speaking loudly. quite echoey, as shes not facing the camera too much
+08:33-08:45 - actress mumbling and walk around 
+08:50-08:58 - the same but louder and more exaggerated, louder, more like talking to oneself when angry
+10:35-10:38 - clear phrase from actress, no background music, a bit of laughter after
+10:44-10:47 - clear phrase from actress, no background music, also a bit of laughter after
+11:11-11:20 - actress making cat sounds, interspersed with audience speaking
+
+11:40-11:49 - character crawling around the space, making cat noises
+13:40-13:48 - just narrator
+14:50-14:54 - actress takes a clear breath out, very clear
+15:14-15:24 - actress talking in a breathy voice
+16:25-16:34 - actress talking clearly, but music backing track is white-noise like waves on beach sort of thing
+16:35-16:45 - the same but much clearer (the other one starts a bit less clear, breathy as she was running aorund), and someone "hms" in the audienc
+17:23-17:34 - leaning over something and writing with a sharpie, she says things. its clear but very slightly muffled.
+18:12-18:25 - actress talking in a new tone mimicking an interview, quite clear, very soft sine tone music in the background
+23:08-23:20 - actress talking, no music background, varied volumes, wide dynamic range
+23:42-23:48 - just the background noise, no audience sound, actress, or music
+23:58-24:03 - actress voice
+25:11-25:15 - actress voice, very soft music starting
+25:20-25:30 - actress and narrator overlapping, sine tone music increasing in music
+26:13-26:19 - narrator, heartbeat fx and loud sine tone, :19 actress speaks a line, no narrator overlap but still music, its clear (god its beautiful)
+26:27-26:30 - actress now speaking much louder at times, still sine tone
+26:49-27:00 - very loudly breathing and moaning, starts with relatively soft music, loud drums come in at 26:53
+27:46-27:49 - just actress loudly crying and breathing violently 
+27:55-28:02 - more of that, more clear maybe
+
+mov2 (8877)
+00:22-00:30 - actress talking softly, some background music (soft synth pads, not loud)
+01:03-01:12 - actress crying and talking, same background music
+01:48-01:55 - actress crying and talking, basically no background music
+02:20-02:29 - actress talking and sniffling, no background music at all, halting speech pattern
+03:30-03:40 - actress talking, piano music starting (barely audible, very soft)
+03:50-04:00 - actress talking, more of a mumble really, piano music starting (now a tiny bit more audible, but still very low)
+05:14-05:22 - actress talking super clearly, piano music still in the background 
+05:41-05:52 - narrator talking with the same piano music, actress moving around the space (movement sound, not talking)
+07:29-07:34 - actress breathing and sniffling loudly and talking a bit through those breaths over slightly louder piano music
+07:39 -07:43 - actress breathing and sniffling a bit more softly, the music just got way louder, one of the climax moments
+10:30-10:32 - actress talking very clearly over mid volume new stretched piano music (10:33 is narrator, needs a clean cutoff)
+11:48-12:07 - actress talking very clearly over same music
+12:22-12:39 - actress very clear and loud, wider dynamic range, same music
+12:40-12:50 - also very clear, same music
+13:45:-13:55 - very clear but less control, actress moving around a lot, loud voice on the edge of sobbing
+14:00-14:13 - loud, also breathy but almost yelling
+15:26-15:32 - narrator over same music but a bit softer
+15:50-16:00 - actress moving around the space and mumling, new soft music, oscillating pads and very soft piano
+16:31-16:36 - actress yelling, same music but a bit louder
+16:57-17:00 - actress talking softly over same music
+17:20-17:32 - actress talking clearly over same music, looking more directly into the camera so its a bit more clear
+18:00-19:00 - actress moving loudly around the room, stomping muttering "stop" and making sharp mouth noises, but significantly overshadowed by the very loud piano music and the narrator track playing. also clear from this moment that there's some compression, as when she stomps hard it quitens other things
+19:11-19:15 - actres yells stop, rest is the same
+19:30-19:34 - very loud "stop" but with lots of music
+19:39-19:41 - another yell, rest is the same
+19:49-19:50 - another yell, rest is the same
+19:58-20:05 - very loud breathing, somewhat audible over the very loud music
+20:53-21:05 - actress saying "its ok, I have everything I need" over loud music fading out, barely audible
+21:11-21:21 - saying the same things over music even more faded, quite audible
+22:05-22:15 - narrator talking, no more music at all
+22:35-22:45 - just background noise and mild audience noise, no music or actress
+24:30-24:40 - hold music comes in and gets louder
+24:43-25:35 - clapping with hold music
+
