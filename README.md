@@ -1,12 +1,12 @@
-# Voice Separation for "Instructions On How To Be Alone"
+### Voice Separation for "Instructions On How To Be Alone"
 
-## What this does
+#### What we tried
 
 Isolates the performer's voice from a ~40-minute audience-perspective recording
 of a one-woman play, using Meta's SAM Audio (December 2025) with text + span
 prompting. Optionally enhances the separated voice with Resemble Enhance.
 
-## The problem
+#### Context
 
 Both the performer and the director are women. SAM Audio's text prompt
 `"a woman speaking"` maps directly to how the model was trained (their
@@ -18,7 +18,7 @@ audience members too.
 woman I want is speaking HERE (positive) and is NOT speaking HERE (negative)."
 The text prompt handles the semantic category; the spans handle identity.
 
-## Files
+#### Files
 
 ```
 setup.sh            — Run first on Lambda. Installs everything, downloads weights.
@@ -26,7 +26,7 @@ separate_voice.py   — Main separation script. Edit CONFIG section, then run.
 enhance_voice.py    — Optional post-separation "upscaling" via Resemble Enhance.
 ```
 
-## Quick start on Lambda
+### Quick start on Lambda
 
 ```bash
 # 1. SSH in
@@ -56,7 +56,7 @@ python separate_voice.py
 python enhance_voice.py output/performer_voice.wav
 ```
 
-## How to pick anchors (the most important step)
+#### How to pick anchors (the most important step)
 
 Open the recording in any audio player with a waveform view (Ableton is fine).
 You need to identify:
@@ -125,7 +125,7 @@ In order of impact:
    then SAM Audio on specific problem passages where you need more
    aggressive extraction.
 
-## The enhancement question
+#### The enhancement question
 
 Resemble Enhance and VoiceFixer can genuinely improve separated speech,
 but they are ALSO generative models. Each stage in the pipeline
@@ -134,7 +134,10 @@ moves further from the original recording. For a project where preserving
 her enunciation is the whole point, use the lightest processing chain
 that achieves acceptable intelligibility. More processing ≠ better.
 
-## Hardware notes
+Processing on their online demo did not improve results at all, despite clearly
+defined anchors.
+
+#### Hardware notes
 
 - **A100 80GB**: Comfortable for sam-audio-large with reranking_candidates=8
 - **A100 40GB**: Should work for sam-audio-large with reranking_candidates=4
